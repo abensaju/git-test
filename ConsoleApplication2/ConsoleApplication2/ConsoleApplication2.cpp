@@ -10,6 +10,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 
 	int a;
+	int b;
 	return 0;
 }
 
